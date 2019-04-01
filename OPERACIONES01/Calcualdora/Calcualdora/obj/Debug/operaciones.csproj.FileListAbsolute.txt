@@ -1,0 +1,10 @@
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\bin\Debug\Calcualdora.exe.config
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\bin\Debug\Calcualdora.exe
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\bin\Debug\Calcualdora.pdb
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\operaciones.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\Calcualdora.Form1.resources
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\Calcualdora.Properties.Resources.resources
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\operaciones.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\Calcualdora.exe
+C:\Users\willi\Desktop\Calcualdora (1)\Calcualdora\Calcualdora\obj\Debug\Calcualdora.pdb
